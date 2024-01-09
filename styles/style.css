@@ -323,7 +323,7 @@ input{
 
 #last{
     width: 1600px;
-    height: 609px;
+    height: 709px;
     background-color:#070211;
     justify-content: center;
     display: flex;    
@@ -332,14 +332,24 @@ input{
 }
 
 
+
+
+.last-div{
+    width: 1600px;
+    height: 200px;
+   
+    display: flex;
+    justify-content: space-between;
+}
+
 .last-para{
     color: #FFF;
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
     line-height: 40px; 
-    margin-top: 140px;
-    margin-left: -600px;
+    padding-top: 85px;
+    padding-left: 120px;
 }
 
 
@@ -348,74 +358,81 @@ input{
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
-    line-height: 40px; 
-    margin-top: -130px;
-    margin-right: -250px;
-    display: flex;
-    justify-content: left;  
-    padding-left: 250px; 
+    padding-top:85px;
+    padding-right: 280px;
 }
 
-
-.last-site{
-    color: #FFF;
-    font-family: Inter;
-    font-size: 24px;   
-    font-weight: 500;
-    line-height: 40px;
-}
 
 .last-image{
-     margin-top: 30px;
-     margin-left: -240px;
-     padding-right: 50px;
+    margin-top: 115px;
+    margin-left: -1080px;
+    
 }
 
 
-.last-phones{
+.last-photo{
+    /* margin-top: 143px; */
+    /* margin-right: 850px; */
+}
+
+
+
+#icon{
+    width: 1600px;
+    height: 250px;
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+
+.Facebook{
+    padding: 90px;  
+    margin-right: -155px; 
+      margin-left: -250px;
+}
+
+.Instagram{
+    padding: 90px;
+    margin-right: -155px;
+}
+
+.Twitter{
+    padding: 90px;
+    margin-right: -155px;
+}
+
+.Linkedin{
+    padding: 90px;
+    margin-right: -155px;
+}
+
+
+#copyright{
+    width: 1600px;
+    height: 100px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.para{
     color: #FFF;
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
-    line-height: 40px; 
-    margin-top: -40px;
-    margin-right: -250px;
-    display: flex;
-    justify-content: left;  
-    padding-left: 250px;
+    padding-left: 120px;
 }
 
-.last-photo{
-   margin-left: -255px;
-    margin-top: 32px;
+.para-last{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-right: 280px;
 }
 
-#icon{
-    margin-top: 80px;
-    width: 350px;
-    height: 80px;
-   
 
-}
 
-.Facebook{
-  
-    margin-right: 20px;
-}
-
-.Instagram{
-    
-    margin-right: 20px;
-}
-
-.Twitter{
-    margin-right: 20px;
-}
-
-.Linkedin{
-    margin-right: 20px;
-}
-
-/* .copyright{
-    
-} */
